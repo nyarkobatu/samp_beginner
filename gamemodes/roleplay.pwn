@@ -32,6 +32,11 @@
 	Copyright(c) 2012-2015 Emmet Jones (All rights reserved).
 */
 //sa
+
+//selamlar
+
+
+
 #pragma dynamic 500000
 
 #include <a_samp>
